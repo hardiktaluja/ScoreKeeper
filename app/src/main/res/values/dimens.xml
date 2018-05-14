@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="topMostPadding">16dp</dimen>
+    <dimen name="textViewPadding">16dp</dimen>
+    <dimen name="teamTextSize">22sp</dimen>
+    <dimen name="scorePadding">24dp</dimen>
+    <dimen name="scoreTextSize">56sp</dimen>
+    <dimen name="betweenButtons">8dp</dimen>
+    <dimen name="buttonLeftRight">24dp</dimen>
+    <dimen name="belowReset">32dp</dimen>
+</resources>

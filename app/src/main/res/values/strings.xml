@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Score Keeper</string>
+    <string name="teamA">Team A</string>
+    <string name="teamB">Team B</string>
+    <string name="initialScore">0</string>
+    <string name="quaffle">Quaffle</string>
+    <string name="snitch">Snitch</string>
+    <string name="reset">Reset</string>
+</resources>
